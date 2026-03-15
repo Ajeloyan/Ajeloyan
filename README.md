@@ -42,7 +42,7 @@
 
 ---
 
-### 🏙️ Ma Ville de Contributions (L'Alternative au Snake)
+### 🏙️ Ma Ville de Contributions
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Ma ville de code" width="100%" />
 </div>
