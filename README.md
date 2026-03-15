@@ -37,12 +37,3 @@
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajeloyan&layout=compact&theme=radical)
 
 </div>
-
----
-
-### 🏆 Mes Trophées GitHub
-<div align="center">
-
-![Trophées](https://github-profile-trophy.vercel.app/?username=Ajeloyan&theme=radical&column=3&margin-w=15)
-
-</div>
