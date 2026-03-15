@@ -49,14 +49,6 @@
 
 ---
 
-### 🏆 Mes Trophées de Développeur
-<div align="center">
-
-![Trophées](https://github-profile-trophy.vercel.app/?username=Ajeloyan&theme=tokyonight&column=3&margin-w=15)
-
-</div>
-
----
 
 ### 📊 Statistiques Détaillées
 <div align="center">
