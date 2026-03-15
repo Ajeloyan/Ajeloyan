@@ -25,6 +25,27 @@
 
 ---
 
+---
+
+### 🎓 Mon Cursus 42
+
+| Projet | Description | Note | État |
+| :--- | :--- | :---: | :---: |
+| **Libft** | Bibliothèque C personnalisée | 125/100 | ✅ |
+| **ft_printf** | Réécriture complète de printf | 100/100 | ✅ |
+| **Get_Next_Line** | Lecture de fichier ligne par ligne | 125/100 | ✅ |
+| **Born2beroot** | Administration Système & Virtualisation | 110/100 | ✅ |
+| **push_swap** | Algorithme de tri d'entiers optimisé | 125/100 | ✅ |
+| **Python Module 00** | Bases du langage et syntaxe | 100/100 | ✅ |
+| **Python Module 01** | Introduction à la POO | 100/100 | ✅ |
+| **Python Module 02** | Gestion des exceptions et erreurs | 100/100 | ✅ |
+| **Python Module 03** | Manipulation des collections (listes, dicts) | 100/100 | ✅ |
+| **Python Module 04** | Gestion des fichiers et I/O | 100/100 | ✅ |
+| **Python Module 05** | Classes abstraites et Polymorphisme | À venir | 🔜 |
+| **Python Module 06** | ... | À venir | 🔜 |
+
+---
+
 ### 📊 Statistiques & Activité
 
 <div align="center">
