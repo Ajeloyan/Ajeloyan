@@ -42,14 +42,6 @@
 
 ---
 
-### 🏙️ Ma Ville de Contributions
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Ma ville de code" width="100%" />
-</div>
-
----
-
-
 ### 📊 Statistiques Détaillées
 <div align="center">
 
