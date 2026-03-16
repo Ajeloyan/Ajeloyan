@@ -38,7 +38,8 @@
 | **Python Module 02** | Exceptions & Erreurs | 100/100 | ✅ |
 | **Python Module 03** | Collections (listes, dicts) | 100/100 | ✅ |
 | **Python Module 04** | Fichiers & I/O | 100/100 | ✅ |
-| **Python Module 05** | Classes abstraites | À venir | 🔜 |
+| **Python Module 05** | Classes abstraites | 100/100 | ✅ |
+| **Python Module 06** | Imports | a venir... |  |
 
 ---
 
